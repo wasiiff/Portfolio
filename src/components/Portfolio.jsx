@@ -18,7 +18,7 @@ const Portfolio = () => {
     {
       id: 3,
       src: gd,
-      title: "Game Dev.",
+      title: "Game Dev",
     },
 
   ];
