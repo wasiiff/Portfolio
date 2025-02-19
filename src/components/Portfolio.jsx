@@ -1,28 +1,26 @@
 import React from "react";
-import figma1 from "../assets/figma1.jpg";
-import figma2 from "../assets/figma2.jpg";
-import figma3 from "../assets/figma3.jpg";
-import figma4 from "../assets/figma4.jpg";
+import gemini from "../assets/Gemini (1).png";
+import hh from "../assets/Hello Here.png";
+import gd from "../assets/Game Dev.png";
 
 const Portfolio = () => {
   const portfolios = [
     {
       id: 1,
-      src: figma1,
+      src: gemini,
+      title: "Gemini Clone",
     },
     {
       id: 2,
-      src: figma2,
+      src: hh,
+      title: "Hello:Here",
     },
     {
       id: 3,
-      src: figma3,
+      src: gd,
+      title: "Game Dev.",
     },
 
-    // {
-    //     id: 4,
-    //     src: figma4
-    //     },
   ];
   return (
     <div
@@ -42,19 +40,16 @@ const Portfolio = () => {
           className="grid sm:grid-cols-2 md:grid-cols-3 gap-8
                 px-12 sm:px-0"
         >
-          {portfolios.map(({ id, src }) => (
-            <div key={id} className="shadow-md shadow-gray-600 rounded-lg">
+          {portfolios.map(({ id, src, title }) => (
+            <div key={id} className="shadow-md shadow-gray-600 rounded-lg w-full h-full">
               <img
                 src={src}
                 alt=" "
-                className="rounded-md duration-200 hover:scale-105"
+                className="rounded-md duration-200 hover:scale-105 w-full h-fit"
               />
-              <div className="flex items-center just-center">
-                <button className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">
-                  Demo
-                </button>
-                <button className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">
-                  Figma
+              <div className="flex items-center justify-center">
+                <button className="w-1/2 px-6 py- m-2 duration-200 hover:scale-105">
+                  {title}
                 </button>
               </div>
             </div>

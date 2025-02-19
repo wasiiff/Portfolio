@@ -2,9 +2,9 @@ import React from "react";
 import html_image from "../assets/html_image.png";
 import css_image from "../assets/css_image.png";
 import js_image from "../assets/js_image.png";
-import mongo_image from "../assets/mongo_image.png";
+import native_image from "../assets/react-native-app-icon.png";
 import tailwind_image from "../assets/tailwind_image.png";
-import figma_image from "../assets/figma_image.png";
+import react_image from "../assets/React.webp";
 
 const Experience = () => {
   const techs = [
@@ -22,8 +22,8 @@ const Experience = () => {
     },
     {
       id: 3,
-      src: mongo_image,
-      title: "MongoDb",
+      src: react_image,
+      title: "React JS",
       style: "shadow-green-500",
     },
     {
@@ -40,8 +40,8 @@ const Experience = () => {
     },
     {
       id: 6,
-      src: figma_image,
-      title: "Figma",
+      src: native_image,
+      title: "React Native",
       style: "shadow-white",
     },
   ];
@@ -53,7 +53,7 @@ const Experience = () => {
       <div className="max-w-screen-lg mx-auto p-4 flex flex-col justify-center w-full h-full text-white">
         <div>
           <p className="text-4xl font-bold border-b-4 border-gray-500 p-2 inline">
-            Experience
+            Skills
           </p>
 
           <p className="py-6 ">These are the technologies i have worked with</p>
@@ -67,7 +67,7 @@ const Experience = () => {
             <div
               key={id}
               className={
-                "shadow-md hover:scale-105 duration-500 py-2 rounded-lg ${style} "
+                "shadow-md hover:scale-105 duration-500 py-2 rounded-lg ${style}"
               }
             >
               <img src={src} alt="" className="w-20 mx-auto" />

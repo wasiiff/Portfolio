@@ -16,22 +16,23 @@ const About = () => {
             About
           </p>
         </div>
-        <p className="text-xl mt-20">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui
-          consequatur voluptatibus et fuga, molestias libero nam iste autem
-          dignissimos asperiores! Qui quis quo soluta omnis inventore eligendi.
-          Voluptatem tenetur eveniet nulla nesciunt est. Pariatur nisi illo
-          dolores omnis ipsam ea corrupti, atque impedit. Ipsa dolores
-          consequuntur illum voluptatibus vitae quod?
+        <p className="text-xl mt-2">
+          I’m a passionate Front-End Developer and a BS Computer Science
+          undergraduate with expertise in React.js and Tailwind CSS. I love
+          building dynamic, user-friendly web applications that blend aesthetics
+          with performance. With a keen eye for design and a strong foundation
+          in modern front-end technologies, I strive to create seamless digital
+          experiences. Always eager to learn and innovate, I enjoy tackling new
+          challenges and staying up-to-date with the latest trends in web
+          development
         </p>
         <br />
         <p className="text-xl">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae
-          dignissimos, fugiat consequatur est velit totam harum nam asperiores
-          at deleniti nisi qui distinctio labore doloremque temporibus officia
-          reiciendis quos, necessitatibus quae, animi soluta sint? Quam nobis
-          ipsa cupiditate assumenda ad laboriosam dolorem error temporibus non?
-          Corporis voluptas molestias sint numquam!
+          From writing my first lines of code to developing full-fledged web
+          applications, my journey as a Front-End Developer has been fueled by
+          curiosity and passion.Whether it's optimizing performance, enhancing
+          UI/UX, or exploring new front-end frameworks, I am always excited to
+          push my skills further.
         </p>
       </div>
     </div>

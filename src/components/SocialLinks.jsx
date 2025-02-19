@@ -7,8 +7,7 @@ import {
   FaMailchimp,
 } from "react-icons/fa6";
 import { FaSquareInstagram } from "react-icons/fa6";
-import { FaSquareDribbble } from "react-icons/fa6";
-import { FaSquareFacebook } from "react-icons/fa6";
+import { FaGithubSquare } from "react-icons/fa";
 import { IoIosMail } from "react-icons/io";
 
 const SocialLinks = () => {
@@ -20,7 +19,7 @@ const SocialLinks = () => {
           LinkedIn <FaLinkedin size={30} />
         </>
       ),
-      href: "https://www.linkedin.com/in/muhammad-ali-iftikhar-a217131aa/",
+      href: "https://www.linkedin.com/in/wasif-bin-nasir-7118a529a/",
       style: "rouned-tr-md",
     },
     {
@@ -31,25 +30,16 @@ const SocialLinks = () => {
           <FaSquareInstagram size={30} />
         </>
       ),
-      href: "https://instagram.com/m.aliiftikhar_",
-    },
-    {
-      id: 3,
-      child: (
-        <>
-          Dribbble <FaSquareDribbble size={30} />
-        </>
-      ),
-      href: "https://dribbble.com/m_ali242",
+      href: "https://www.instagram.com/wasiiff__/",
     },
     {
       id: 4,
       child: (
         <>
-          Facebook <FaSquareFacebook size={30} />
+          GitHub <FaGithubSquare size={30} />
         </>
       ),
-      href: "https://www.facebook.com/mali.iftikhar.73?mibextid=JRoKGi",
+      href: "https://github.com/wasiiff",
     },
     {
       id: 5,
@@ -58,7 +48,7 @@ const SocialLinks = () => {
           Mail <IoIosMail size={30} />
         </>
       ),
-      href: "mailto:muhammadali.2420844@gmail.com",
+      href: "mailto:wasifgee0012@gmail.com",
       style: "rouned-tr-md",
     },
   ];
