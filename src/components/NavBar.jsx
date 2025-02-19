@@ -9,14 +9,14 @@ const NavBar = () => {
     { id: 1, to: "home" },
     { id: 2, to: "about" },
     { id: 3, to: "portfolio" },
-    { id: 4, to: "experience" },
+    { id: 4, to: "skills" },
     { id: 5, to: "contact" },
   ];
 
   return (
     <div className="flex justify-between items-center w-full h-20 px-4 text-white bg-black fixed z-50">
       <div>
-        <h1 className="text-5xl font-signature ml-2">Wasif Bin Nasir</h1>
+        <h1 className="text-5xl font-bold ml-2">Wasif Bin Nasir</h1>
       </div>
 
       {/* Desktop Menu */}
