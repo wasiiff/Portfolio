@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.d2df9c03.css",
-    "main.js": "/Portfolio/static/js/main.a4bbc183.js",
-    "static/media/Profile.jpg": "/Portfolio/static/media/Profile.d766f6d8b4e3d4401c43.jpg",
-    "static/media/figma2.jpg": "/Portfolio/static/media/figma2.2f8429a9a3adf16ee8f4.jpg",
-    "static/media/figma3.jpg": "/Portfolio/static/media/figma3.344d371c17e5c9cd335d.jpg",
-    "static/media/figma1.jpg": "/Portfolio/static/media/figma1.1ae57abe537ed543540f.jpg",
+    "main.css": "/Portfolio/static/css/main.996db159.css",
+    "main.js": "/Portfolio/static/js/main.c1f9c8b3.js",
+    "static/media/image.png": "/Portfolio/static/media/image.8b3158708e1fff80d82f.png",
+    "static/media/Game Dev.png": "/Portfolio/static/media/Game Dev.4eed3b123ebfb9de530e.png",
+    "static/media/Hello Here.png": "/Portfolio/static/media/Hello Here.93f6ecaf29c8950738df.png",
+    "static/media/Gemini (1).png": "/Portfolio/static/media/Gemini (1).8660d787aef253ab9cf8.png",
     "static/media/js_image.png": "/Portfolio/static/media/js_image.690b3d8860da76fde3e8.png",
-    "static/media/figma4.jpg": "/Portfolio/static/media/figma4.a72ecfa4f225906ee087.jpg",
+    "static/media/react-native-app-icon.png": "/Portfolio/static/media/react-native-app-icon.acb1b0a5b7a8d5ba597c.png",
     "static/media/html_image.png": "/Portfolio/static/media/html_image.6e930594286d8afe4c79.png",
+    "static/media/React.webp": "/Portfolio/static/media/React.2a0cac33f155e4a27216.webp",
     "static/media/css_image.png": "/Portfolio/static/media/css_image.463e319bad8e0edf1ef7.png",
     "index.html": "/Portfolio/index.html",
-    "main.d2df9c03.css.map": "/Portfolio/static/css/main.d2df9c03.css.map",
-    "main.a4bbc183.js.map": "/Portfolio/static/js/main.a4bbc183.js.map"
+    "main.996db159.css.map": "/Portfolio/static/css/main.996db159.css.map",
+    "main.c1f9c8b3.js.map": "/Portfolio/static/js/main.c1f9c8b3.js.map"
   },
   "entrypoints": [
-    "static/css/main.d2df9c03.css",
-    "static/js/main.a4bbc183.js"
+    "static/css/main.996db159.css",
+    "static/js/main.c1f9c8b3.js"
   ]
 }
