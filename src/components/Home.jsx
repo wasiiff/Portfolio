@@ -1,6 +1,5 @@
 import React from "react";
-import wasif from "../assets/image.png";
-import { MdOutlineKeyboardArrowRight } from "react-icons/md";
+import wasif from "../assets/Profile.jpg";
 
 const Home = () => {
   return (
@@ -25,7 +24,7 @@ const Home = () => {
           <img
             src={wasif}
             alt="my profile"
-            className="rounded-2xl md:mt-11 mx-auto sm:w-3/4 sm:h-3/4 md:w-2/3 md:h-2/3 shadow-blue-700"
+            className="rounded-2xl md:mt-11 mx-auto sm:w-4/5 sm:h-3/4 md:w-2/3 md:h-2/3 shadow-blue-700"
           />
         </div>
       </div>
