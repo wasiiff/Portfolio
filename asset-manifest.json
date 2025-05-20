@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.eb732fab.css",
-    "main.js": "/Portfolio/static/js/main.55c6aabc.js",
-    "static/media/image.png": "/Portfolio/static/media/image.8b3158708e1fff80d82f.png",
+    "main.css": "/Portfolio/static/css/main.445e7f33.css",
+    "main.js": "/Portfolio/static/js/main.720e9020.js",
     "static/media/Game Dev.png": "/Portfolio/static/media/Game Dev.4eed3b123ebfb9de530e.png",
+    "static/media/Profile.jpg": "/Portfolio/static/media/Profile.8e1fa6f5394e02ae6850.jpg",
     "static/media/Hello Here.png": "/Portfolio/static/media/Hello Here.93f6ecaf29c8950738df.png",
     "static/media/Gemini (1).png": "/Portfolio/static/media/Gemini (1).8660d787aef253ab9cf8.png",
     "static/media/js_image.png": "/Portfolio/static/media/js_image.690b3d8860da76fde3e8.png",
@@ -12,11 +12,11 @@
     "static/media/React.webp": "/Portfolio/static/media/React.2a0cac33f155e4a27216.webp",
     "static/media/css_image.png": "/Portfolio/static/media/css_image.463e319bad8e0edf1ef7.png",
     "index.html": "/Portfolio/index.html",
-    "main.eb732fab.css.map": "/Portfolio/static/css/main.eb732fab.css.map",
-    "main.55c6aabc.js.map": "/Portfolio/static/js/main.55c6aabc.js.map"
+    "main.445e7f33.css.map": "/Portfolio/static/css/main.445e7f33.css.map",
+    "main.720e9020.js.map": "/Portfolio/static/js/main.720e9020.js.map"
   },
   "entrypoints": [
-    "static/css/main.eb732fab.css",
-    "static/js/main.55c6aabc.js"
+    "static/css/main.445e7f33.css",
+    "static/js/main.720e9020.js"
   ]
 }
